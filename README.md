@@ -5,3 +5,5 @@
 2.gpu_code - resnet-Copy1.ipynb--The codes introduce steps of training a pre-training model.(It is a JupyterNoteBook file.)
 
 3.FineTune-Copy1.ipynb--The codes introduce steps of finishing transfer learning on pre-train model.(It is a JupyterNoteBook file.)
+
+4.In the train&test.zip file, we provide part of standard samples from core well.
